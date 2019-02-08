@@ -1,0 +1,15 @@
+
+
+
+html {
+	height: 100px;
+}
+.carousel-item img {
+	height: 550px;
+	width: 100%;
+
+}
+.resize img{
+	height: 150px;
+
+}
